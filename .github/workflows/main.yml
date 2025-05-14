@@ -4,7 +4,7 @@ env:
   kernel_repository: LineageOS/android_kernel_oneplus_sm8150
   kernel_branch: lineage-22.2
   device: guacamole
-  clang_version: r487747c
+  clang_version: r383902
   defconfig: |
     lineage_sm8150_defconfig
   kernel_patch: |
