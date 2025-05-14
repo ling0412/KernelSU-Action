@@ -6,7 +6,7 @@ env:
   device: guacamole
   clang_version: r487747c
   defconfig: |
-    dipper_defconfig
+    guacamole_defconfig
   kernel_patch: |
     backport-path-umount.patch
   kernelsu_patch: |
