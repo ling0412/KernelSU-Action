@@ -6,7 +6,7 @@ env:
   device: guacamole
   clang_version: r487747c
   defconfig: |
-    guacamole_defconfig
+    lineage_sm8150_defconfig
   kernel_patch: |
     backport-path-umount.patch
   kernelsu_patch: |
